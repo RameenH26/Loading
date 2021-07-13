@@ -1,0 +1,9 @@
+body{
+    background: url("https://cdn.dribbble.com/users/729829/screenshots/2516854/galshir.gif");
+    background-repeat: no-repeat;
+    background-size: 1000px auto;
+}
+button{
+    background-color: red !important;
+    margin-left: 500px;
+}
